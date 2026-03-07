@@ -1,3 +1,4 @@
+import streamlit as st
 import cv2
 import numpy as np
 import joblib
@@ -5,10 +6,13 @@ import joblib
 from modules.deep_image_features import extract_deep_features
 
 
-# Load trained deep-feature model
 MODEL_PATH = "models/image_ai_detector.pkl"
-model = joblib.load(MODEL_PATH)
 
+@st.cache_resource
+def load_image_model():
+    return joblib.load(MODEL_PATH)
+
+model = load_image_model()
 
 def check_image_authenticity(uploaded_file):
 

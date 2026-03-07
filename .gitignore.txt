@@ -1,0 +1,21 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# User database
+data/
+*.db
+
+# Datasets (large)
+datasets/
+
+# ML models
+models/*.pkl
+
+# Virtual environments
+venv/
+env/
+
+# OS junk
+.DS_Store
+Thumbs.db

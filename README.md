@@ -70,4 +70,4 @@ This project was developed as an experimental toolkit for exploring **AI content
 
 ## 👨‍💻 Author ##
 
-**Siddharth C**
+**SIDDHAARTH C**

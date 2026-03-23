@@ -7,39 +7,69 @@ Advanced deep-learning powered authenticity analysis for text and images, with i
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-### Dashboard
+<table>
+<tr>
+<td align="center" width="50%">
 
-![Dashboard](docs/screenshots/dashboard.png)
+### 🧠 Dashboard
+<img src="docs/screenshots/dashboard.png" width="100%"/>
 
-### Login & Registration
+</td>
+<td align="center" width="50%">
 
-![Login](docs/screenshots/login.png)
+### 🔐 Login
+<img src="docs/screenshots/login.png" width="100%"/>
 
-### AI Text Detector
+</td>
+</tr>
 
-| High AI Probability (83.9%) | Low AI Probability (11.8%) |
-|---|---|
-| ![Text High](docs/screenshots/text_high.png) | ![Text Low](docs/screenshots/text_low.png) |
+<tr>
+<td align="center">
 
-| Uncertain Result (55.3%) |
-|---|
-| ![Text Uncertain](docs/screenshots/text_uncertain.png) |
+### 🖼️ Image Detection
+<img src="docs/screenshots/image_detection.png" width="100%"/>
 
-### AI Image Detector
+</td>
+<td align="center">
 
-![Image Detection](docs/screenshots/image_detection.png)
+### ✨ Image Enhancer
+<img src="docs/screenshots/image_enhancer.png" width="100%"/>
 
-### Image Enhancer
+</td>
+</tr>
 
-![Image Enhancer](docs/screenshots/image_enhancer.png)
+<tr>
+<td align="center">
 
-### Background Remover
+### 🧹 Background Remover
+<img src="docs/screenshots/background_remover.png" width="100%"/>
 
-![Background Remover](docs/screenshots/background_remover.png)
+</td>
+<td align="center">
 
----
+### 📝 Text Analysis (High)
+<img src="docs/screenshots/text_high.png" width="100%"/>
+
+</td>
+</tr>
+
+<tr>
+<td align="center">
+
+### ⚠️ Text Analysis (Low)
+<img src="docs/screenshots/text_low.png" width="100%"/>
+
+</td>
+<td align="center">
+
+### ❓ Text Analysis (Uncertain)
+<img src="docs/screenshots/text_uncertain.png" width="100%"/>
+
+</td>
+</tr>
+</table>
 
 ## What It Does
 

@@ -1,5 +1,5 @@
 # 🧠 AI Forensics & Enhancement Toolkit (v2)
-=======
+---
 
 Advanced deep-learning powered authenticity analysis for text and images, with image enhancement and background removal utilities. Built with Streamlit, DistilBERT, ResNet18, and scikit-learn.
 
@@ -200,7 +200,6 @@ python train_image_model.py
 ```
 
 ---
-<<<<<<< HEAD
 
 ## Technology Stack
 

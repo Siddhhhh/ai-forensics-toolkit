@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # 🧠 AI Forensics & Enhancement Toolkit (v2)
+=======
+# 🧠 AI Forensics & Enhancement Toolkit  #
+>>>>>>> 2ecf0c5472e6fc50fde048080350a04b25fac976
 
 Advanced deep-learning powered authenticity analysis for text and images, with image enhancement and background removal utilities. Built with Streamlit, DistilBERT, ResNet18, and scikit-learn.
 
@@ -199,6 +203,7 @@ python train_image_model.py
 ```
 
 ---
+<<<<<<< HEAD
 
 ## Technology Stack
 
@@ -232,3 +237,5 @@ MIT
 ---
 
 Built as a portfolio project demonstrating ML pipeline engineering, transformer feature extraction, and full-stack Python application development.
+=======
+>>>>>>> 2ecf0c5472e6fc50fde048080350a04b25fac976

@@ -265,3 +265,4 @@ MIT
 Built as a portfolio project demonstrating ML pipeline engineering, transformer feature extraction, and full-stack Python application development.
 =======
 
+Built by [Siddhaarth Chandran](https://github.com/Siddhhhh)
